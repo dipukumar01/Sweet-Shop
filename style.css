@@ -1,0 +1,302 @@
+        header{
+            width:1500px;
+            height:50px;
+            border-width:3px;
+            border-style:solid;
+            border-color:red;
+            box-sizing:border-box;
+            padding:6px;
+        }
+
+        #brand{
+            padding:0;
+            margin:0;
+            font-family:sans-serif;
+            float:left;
+        }
+
+        #tag_line{
+            float:right;
+            padding:0;
+            margin:0;
+            margin-top:10px;
+            margin-right: 2px;
+        }
+
+        nav{
+            width: 1500px;;
+            height:100px;
+            background-color:rgb(97, 169, 232);
+            float:left;
+            padding:30px;
+            box-sizing:border-box;
+        }
+        #search{
+            width:300px;
+            height:40px;
+            float:left;
+            box-sizing:border-box;
+            border: none;
+            font-size:20px;
+            padding:10px;
+        }
+        #search_button{
+            width: 100px;
+            height: 40px;
+            float:left;
+            border: none;
+            margin-left:3px;
+            font-size:20px;
+        }
+        #menu_table{
+            width:600px;
+            height:40px;
+            float:right;
+            box-sizing:border-box;   
+        }
+        #menu_item{
+            background-color: white;
+            width:20;
+            text-align:center; 
+        }
+        a{
+            text-decoration: none;
+            color:black;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        section{
+            width: 1500px;
+            height:1600px;
+            float:left;
+            box-sizing:border-box;
+            border-width:1px;
+            border-style:solid;
+            border-color:black;
+            padding:30px;
+        }
+        #loc{
+            float:left;
+            font-weight: bold;
+        }
+        #contact{
+            float:right;
+            font-weight: bold;
+
+        }
+        #Popular_Sweet_Box{
+            width: 745px;
+            height:550px;
+            float:left;
+            background-color: black;
+            margin-top:30px;
+            box-sizing:border-box;
+        }
+        #popular_sweet{
+            color: white;
+            text-align:center;
+            font-family: sans-serif;           
+        }
+        #popular_sweet_img{
+            width: 40%;
+            height: 200px;
+            margin: 25px;
+            border-width: 5px;
+            border-color: white;
+            border-style: solid;
+            box-sizing: border-box;
+            margin-bottom: 0%;
+            margin-left: 35px;   
+        }
+
+        #rate_list_box{
+            width: 450px;
+            height: 550px;
+            float: right;
+            box-sizing: border-box;
+            margin-top: 30px;
+        }
+        #rate_header{
+            height: 50px;
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-family: century gothic;
+            font-weight: bold;
+            font-size: 25px;
+        }
+        #rate_content{
+            background-color: rgb(93, 93, 184);
+        }       
+        #s_name{
+            color: white;
+            font-size: 25px;
+            font-family: century gothic;
+            padding: 10px;
+            border-bottom-width: 3px;
+            border-bottom-style: solid;
+            border-color: white;      
+        }
+        #rate{
+            list-style: none;
+        }
+
+        fieldset{
+            padding: 10px;
+            width: 720px;
+            height: 500px;
+            float: left;
+            margin-top: 30px;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #ccc;
+        }
+        legend{
+            font-family: century gothic;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        #order_online{
+            font-family: sans-serif;
+            font-size: 17px;
+        }
+        #order_input{
+            margin-top: 5px;
+            width: 100%;
+            height: 30px;
+            box-sizing: border-box;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #ccc;
+        }
+        textarea{
+            width: 100%;
+            height: 80px;
+            box-sizing: border-box;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #ccc;
+        }
+
+        #submit_btn{
+            padding: 10px;
+            font-size: 15px;
+            float: right;
+        }
+
+        #about_us{
+            width: 450px;
+            height: 500px;
+            float: right;
+             border-width: 1px;
+            border-style: solid;
+            border-color: #ccc;
+            margin-top: 48px;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        #about_title{
+            text-align: center;
+            font-family: century gothic;           
+        }
+        #about_text{
+            text-align: justify;
+            font-family: sans-serif;
+            line-height: 20px;            
+        }
+
+        #more_sweets{
+            float: left;
+            width: 100%;
+            box-sizing: border-box;            
+        }
+        #more_sweets_h{
+            text-align: center;
+            font-family: century gothic;
+            font-size: 30px;
+        }
+        #sweets{
+            width: 218px;
+            height: 250px;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #ccc;
+            float: left;
+            margin-right: 22px;
+            box-sizing: border-box;
+            padding: 10px;        
+        }
+        #sweets_end{
+            width: 218px;
+            height: 250px;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #ccc;
+            float: left;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        #more_sweet_pic{
+            width: 180px;
+            height: 200px;
+            margin: 10px;
+            box-sizing: border-box;
+            padding-bottom: 10px;           
+        }
+        #buy_btn{
+            padding: 10px;
+            border-width: 1px;
+            border-style: solid;
+            border-color: white;    
+        }
+
+        footer{
+            width: 1500px;
+            height: 250px;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #ccc;
+            background-color: black;
+            float: left;
+            box-sizing: border-box;
+        }
+        #contact_us{
+            width: 400px;
+            height: 250px;
+            box-sizing: border-box;
+            float: left;
+            padding-left: 30px;
+        }
+
+        #social_link{
+            width: 400px;
+            height: 250px;
+            box-sizing: border-box;
+            float: right;         
+            padding-left: 30px;
+        }
+        #contact_title{
+            color: white;
+            font-family: sans-serif;
+            font-weight: normal;
+        }
+        #contact_detail{
+            color: white;
+            font-size: 20px;
+            font-family: sans-serif;
+            font-style:normal;
+            margin-bottom: 10px;
+        }
+        #social_logo{
+            width: 40px;
+            padding-bottom: 10px;            
+        }
+
+        #developer{
+            float: left;
+            color: white;
+            font-family: century gothic;
+            font-size: 20px;
+            margin-top: 200px;
+            margin-left: 200px;
+        }
